@@ -1,0 +1,6 @@
+{
+    "python.pythonPath": "C:\\Users\\max36\\OneDrive\\文件\\Python venv\\scrapy_test\\Scripts\\python.exe",
+    "python.terminal.activateEnvironment": true,
+    "python.linting.pylintEnabled": true,
+    "git.ignoreLimitWarning": true,
+}
