@@ -4,7 +4,7 @@
 
 ![image](https://imgur.com/n6Epco2.jpg)
 
-![image](https://imgur.com/X9spOWE.)
+![image](https://imgur.com/X9spOWE.jpg)
 
 
 ## 概念及想法
